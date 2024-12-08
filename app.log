@@ -1,0 +1,424 @@
+2024-05-29 15:53:44,970 - INFO - 取消按钮被点击
+2024-05-29 15:53:54,252 - INFO - url'https://www.bbc.com/zhongwen/simp' 已存在，未添加。
+2024-05-29 15:53:54,252 - INFO - 您输入的网址是: https://www.bbc.com/zhongwen/simp
+2024-05-29 15:53:54,252 - INFO - 要过滤的违禁词: 34
+2024-05-29 15:53:56,885 - INFO - hrefs_to_remove ['34']
+2024-05-29 15:53:56,885 - INFO - prohibited_words ['34']
+2024-05-29 15:53:56,951 - INFO - 处理后的网页写入到: ./modified/www.bbc.com_zhongwen_simp\mod9.html
+2024-05-29 15:53:57,135 - INFO - 程序运行时长：2.88 秒
+2024-05-29 15:53:57,137 - INFO - url'https://www.bbc.com/zhongwen/simp' 已存在，未添加。
+2024-05-29 15:53:57,137 - INFO - 您输入的网址是: https://www.bbc.com/zhongwen/simp
+2024-05-29 15:53:57,137 - INFO - 要过滤的违禁词: 34
+2024-05-29 15:53:59,911 - INFO - hrefs_to_remove ['34']
+2024-05-29 15:53:59,912 - INFO - prohibited_words ['34']
+2024-05-29 15:54:00,015 - INFO - 处理后的网页写入到: ./modified/www.bbc.com_zhongwen_simp\mod10.html
+2024-05-29 15:54:00,241 - INFO - 程序运行时长：3.10 秒
+2024-05-29 15:55:34,884 - INFO - url'https://www.bbc.com/zhongwen/simp' 已存在，未添加。
+2024-05-29 15:55:34,884 - INFO - 您输入的网址是: https://www.bbc.com/zhongwen/simp
+2024-05-29 15:55:34,884 - INFO - 要过滤的违禁词: 34
+2024-05-29 15:55:37,478 - INFO - hrefs_to_remove ['34']
+2024-05-29 15:55:37,478 - INFO - prohibited_words ['34']
+2024-05-29 15:55:37,543 - INFO - 处理后的网页写入到: ./modified/www.bbc.com_zhongwen_simp\mod11.html
+2024-05-29 15:55:37,727 - INFO - 程序运行时长：2.84 秒
+2024-05-29 15:55:37,728 - INFO - url'https://www.bbc.com/zhongwen/simp' 已存在，未添加。
+2024-05-29 15:55:37,729 - INFO - 您输入的网址是: https://www.bbc.com/zhongwen/simp
+2024-05-29 15:55:37,729 - INFO - 要过滤的违禁词: 34
+2024-05-29 15:55:56,178 - INFO - hrefs_to_remove ['34']
+2024-05-29 15:55:56,178 - INFO - prohibited_words ['34']
+2024-05-29 15:55:56,249 - INFO - 处理后的网页写入到: ./modified/www.bbc.com_zhongwen_simp\mod12.html
+2024-05-29 15:55:56,366 - INFO - 程序运行时长：18.64 秒
+2024-05-29 16:31:45,031 - INFO - 程序正在关闭...
+2024-05-29 16:37:37,310 - INFO - 程序正在关闭...
+2024-05-29 16:38:25,733 - INFO - 程序正在关闭...
+2024-05-29 16:39:01,335 - INFO - 程序正在关闭...
+2024-05-29 16:39:45,187 - INFO - 程序正在关闭...
+2024-05-29 16:41:15,112 - INFO - 程序正在关闭...
+2024-05-29 16:41:41,492 - INFO - 程序正在关闭...
+2024-05-29 21:17:15,994 - INFO - 程序正在关闭...
+2024-05-30 09:57:59,954 - INFO - url'https://www.bbc.com/zhongwen/simp' 已存在，未添加。
+2024-05-30 09:57:59,955 - INFO - 您输入的网址是: https://www.bbc.com/zhongwen/simp
+2024-05-30 09:57:59,955 - INFO - 要过滤的违禁词: 23
+2024-05-30 09:58:28,729 - INFO - 取消按钮被点击
+2024-05-30 10:01:31,193 - INFO - url'https://www.bbc.com/zhongwen/simp' 已存在，未添加。
+2024-05-30 10:01:31,194 - INFO - 您输入的网址是: https://www.bbc.com/zhongwen/simp
+2024-05-30 10:01:31,194 - INFO - 要过滤的违禁词: 89
+2024-05-30 10:01:40,979 - INFO - 程序正在关闭...
+2024-05-30 10:02:28,276 - INFO - url'https://www.bbc.com/zhongwen/simp' 已存在，未添加。
+2024-05-30 10:02:28,276 - INFO - 您输入的网址是: https://www.bbc.com/zhongwen/simp
+2024-05-30 10:02:28,276 - INFO - 要过滤的违禁词: 12
+2024-05-30 10:03:39,994 - INFO - url'https://www.bbc.com/zhongwen/simp' 已存在，未添加。
+2024-05-30 10:03:39,995 - INFO - 您输入的网址是: https://www.bbc.com/zhongwen/simp
+2024-05-30 10:03:39,995 - INFO - 要过滤的违禁词: 12
+2024-05-30 10:05:08,655 - INFO - url'https://www.bbc.com/zhongwen/simp' 已存在，未添加。
+2024-05-30 10:05:08,655 - INFO - 您输入的网址是: https://www.bbc.com/zhongwen/simp
+2024-05-30 10:05:08,655 - INFO - 要过滤的违禁词: 234
+2024-05-30 10:05:27,352 - INFO - hrefs_to_remove ['234']
+2024-05-30 10:05:27,352 - INFO - prohibited_words ['234']
+2024-05-30 10:05:27,415 - INFO - 处理后的网页写入到: ./modified/www.bbc.com_zhongwen_simp\mod13.html
+2024-05-30 10:05:27,611 - INFO - 程序运行时长：18.96 秒
+2024-05-30 10:07:12,285 - INFO - url'https://www.bbc.com/zhongwen/simp' 已存在，未添加。
+2024-05-30 10:07:12,285 - INFO - 您输入的网址是: https://www.bbc.com/zhongwen/simp
+2024-05-30 10:07:12,286 - INFO - 要过滤的违禁词: 89
+2024-05-30 10:07:15,179 - INFO - hrefs_to_remove ['89']
+2024-05-30 10:07:15,179 - INFO - prohibited_words ['89']
+2024-05-30 10:07:15,238 - INFO - 处理后的网页写入到: ./modified/www.bbc.com_zhongwen_simp\mod14.html
+2024-05-30 10:07:15,413 - INFO - 程序运行时长：3.13 秒
+2024-05-30 10:08:50,119 - INFO - url'https://www.bbc.com/zhongwen/simp' 已存在，未添加。
+2024-05-30 10:08:50,119 - INFO - 您输入的网址是: https://www.bbc.com/zhongwen/simp
+2024-05-30 10:08:50,119 - INFO - 要过滤的违禁词: 89
+2024-05-30 10:08:53,414 - INFO - hrefs_to_remove ['89']
+2024-05-30 10:08:53,414 - INFO - prohibited_words ['89']
+2024-05-30 10:08:53,484 - INFO - 处理后的网页写入到: ./modified/www.bbc.com_zhongwen_simp\mod15.html
+2024-05-30 10:08:53,606 - INFO - 程序运行时长：3.49 秒
+2024-05-30 10:09:05,567 - INFO - 程序正在关闭...
+2024-05-30 10:09:27,548 - INFO - url'https://www.bbc.com/zhongwen/simp' 已存在，未添加。
+2024-05-30 10:09:27,549 - INFO - 您输入的网址是: https://www.bbc.com/zhongwen/simp
+2024-05-30 10:09:27,549 - INFO - 要过滤的违禁词: 234
+2024-05-30 10:09:30,720 - INFO - hrefs_to_remove ['234']
+2024-05-30 10:09:30,720 - INFO - prohibited_words ['234']
+2024-05-30 10:09:30,782 - INFO - 处理后的网页写入到: ./modified/www.bbc.com_zhongwen_simp\mod16.html
+2024-05-30 10:09:30,972 - INFO - 程序运行时长：3.42 秒
+2024-05-30 10:09:45,850 - INFO - 程序正在关闭...
+2024-05-30 10:09:59,742 - INFO - url'https://www.bbc.com/zhongwen/simp' 已存在，未添加。
+2024-05-30 10:09:59,743 - INFO - 您输入的网址是: https://www.bbc.com/zhongwen/simp
+2024-05-30 10:09:59,743 - INFO - 要过滤的违禁词: 789
+2024-05-30 10:10:03,627 - INFO - hrefs_to_remove ['789']
+2024-05-30 10:10:03,627 - INFO - prohibited_words ['789']
+2024-05-30 10:10:03,696 - INFO - 处理后的网页写入到: ./modified/www.bbc.com_zhongwen_simp\mod17.html
+2024-05-30 10:10:03,874 - INFO - 程序运行时长：4.13 秒
+2024-05-30 10:11:06,638 - INFO - 程序正在关闭...
+2024-05-30 10:11:24,039 - INFO - url'https://www.bbc.com/zhongwen/simp' 已存在，未添加。
+2024-05-30 10:11:24,040 - INFO - 您输入的网址是: https://www.bbc.com/zhongwen/simp
+2024-05-30 10:11:24,040 - INFO - 要过滤的违禁词: 34
+2024-05-30 10:11:26,870 - INFO - hrefs_to_remove ['34']
+2024-05-30 10:11:26,871 - INFO - prohibited_words ['34']
+2024-05-30 10:11:26,934 - INFO - 处理后的网页写入到: ./modified/www.bbc.com_zhongwen_simp\mod18.html
+2024-05-30 10:11:27,110 - INFO - 程序运行时长：3.07 秒
+2024-05-30 10:11:37,662 - INFO - 取消按钮被点击
+2024-05-30 10:11:46,513 - INFO - 程序正在关闭...
+2024-05-30 10:12:50,603 - INFO - 程序正在关闭...
+2024-05-30 10:12:58,167 - INFO - 程序正在关闭...
+2024-05-30 10:14:40,421 - INFO - 程序正在关闭...
+2024-05-30 10:14:44,755 - INFO - 程序正在关闭...
+2024-06-02 16:49:36,783 - INFO - url'https://www.bbc.com/zhongwen/simp' 已存在，未添加。
+2024-06-02 16:49:36,784 - INFO - 您输入的网址是: https://www.bbc.com/zhongwen/simp
+2024-06-02 16:49:36,784 - INFO - 要过滤的违禁词: 中国
+2024-06-02 19:31:02,074 - INFO - url'https://www.bbc.com/zhongwen/simp' 已存在，未添加。
+2024-06-02 19:31:02,082 - INFO - 您输入的网址是: https://www.bbc.com/zhongwen/simp
+2024-06-02 19:31:02,082 - INFO - 要过滤的违禁词: 中国
+2024-06-02 19:32:06,334 - INFO - url'https://www.bbc.com/zhongwen/simp' 已存在，未添加。
+2024-06-02 19:32:06,336 - INFO - 您输入的网址是: https://www.bbc.com/zhongwen/simp
+2024-06-02 19:32:06,344 - INFO - 要过滤的违禁词: 中国
+2024-06-02 19:56:02,798 - INFO - url'https://www.bbc.com/zhongwen/simp' 已存在，未添加。
+2024-06-02 19:56:02,800 - INFO - 您输入的网址是: https://www.bbc.com/zhongwen/simp
+2024-06-02 19:56:02,800 - INFO - 要过滤的违禁词: 中国
+2024-06-02 19:56:06,361 - INFO - url'https://www.bbc.com/zhongwen/simp' 已存在，未添加。
+2024-06-02 19:56:06,363 - INFO - 您输入的网址是: https://www.bbc.com/zhongwen/simp
+2024-06-02 19:56:06,363 - INFO - 要过滤的违禁词: 中国
+2024-06-02 19:56:07,220 - INFO - url'https://www.bbc.com/zhongwen/simp' 已存在，未添加。
+2024-06-02 19:56:07,222 - INFO - 您输入的网址是: https://www.bbc.com/zhongwen/simp
+2024-06-02 19:56:07,222 - INFO - 要过滤的违禁词: 中国
+2024-06-02 19:56:07,366 - INFO - url'https://www.bbc.com/zhongwen/simp' 已存在，未添加。
+2024-06-02 19:56:07,367 - INFO - 您输入的网址是: https://www.bbc.com/zhongwen/simp
+2024-06-02 19:56:07,367 - INFO - 要过滤的违禁词: 中国
+2024-06-02 19:56:07,500 - INFO - url'https://www.bbc.com/zhongwen/simp' 已存在，未添加。
+2024-06-02 19:56:07,501 - INFO - 您输入的网址是: https://www.bbc.com/zhongwen/simp
+2024-06-02 19:56:07,501 - INFO - 要过滤的违禁词: 中国
+2024-06-02 19:56:07,645 - INFO - url'https://www.bbc.com/zhongwen/simp' 已存在，未添加。
+2024-06-02 19:56:07,645 - INFO - 您输入的网址是: https://www.bbc.com/zhongwen/simp
+2024-06-02 19:56:07,645 - INFO - 要过滤的违禁词: 中国
+2024-06-02 19:56:07,873 - INFO - url'https://www.bbc.com/zhongwen/simp' 已存在，未添加。
+2024-06-02 19:56:07,874 - INFO - 您输入的网址是: https://www.bbc.com/zhongwen/simp
+2024-06-02 19:56:07,875 - INFO - 要过滤的违禁词: 中国
+2024-06-02 19:56:26,034 - INFO - url'https://www.bbc.com/zhongwen/simp' 已存在，未添加。
+2024-06-02 19:56:26,035 - INFO - 您输入的网址是: https://www.bbc.com/zhongwen/simp
+2024-06-02 19:56:26,036 - INFO - 要过滤的违禁词: 中国
+2024-06-02 19:56:32,747 - INFO - 取消按钮被点击
+2024-06-02 19:56:51,481 - INFO - url'https://www.bbc.com/zhongwen/simp' 已存在，未添加。
+2024-06-02 19:56:51,482 - INFO - 您输入的网址是: https://www.bbc.com/zhongwen/simp
+2024-06-02 19:56:51,482 - INFO - 要过滤的违禁词: 中国
+2024-06-02 19:57:21,483 - INFO - url'https://www.bbc.com/zhongwen/simp' 已存在，未添加。
+2024-06-02 19:57:21,484 - INFO - 您输入的网址是: https://www.bbc.com/zhongwen/simp
+2024-06-02 19:57:21,484 - INFO - 要过滤的违禁词: 中国
+2024-06-02 20:02:22,583 - INFO - url'https://www.bbc.com/zhongwen/simp' 已存在，未添加。
+2024-06-02 20:02:22,583 - INFO - 您输入的网址是: https://www.bbc.com/zhongwen/simp
+2024-06-02 20:02:22,583 - INFO - 要过滤的违禁词: 中国
+2024-06-02 20:02:25,583 - INFO - hrefs_to_remove ['中国']
+2024-06-02 20:02:25,583 - INFO - prohibited_words ['中国']
+2024-06-02 20:02:25,655 - INFO - 处理后的网页写入到: ./modified/www.bbc.com_zhongwen_simp\mod19.html
+2024-06-02 20:02:25,856 - INFO - 程序运行时长：3.27 秒
+2024-06-02 20:02:49,616 - INFO - 取消按钮被点击
+2024-06-02 20:04:54,185 - INFO - url'https://www.bbc.com/zhongwen/simp' 已存在，未添加。
+2024-06-02 20:04:54,185 - INFO - 您输入的网址是: https://www.bbc.com/zhongwen/simp
+2024-06-02 20:04:54,185 - INFO - 要过滤的违禁词: 中国
+2024-06-02 20:04:58,736 - INFO - hrefs_to_remove ['中国']
+2024-06-02 20:04:58,736 - INFO - prohibited_words ['中国']
+2024-06-02 20:04:58,811 - INFO - 处理后的网页写入到: ./modified/www.bbc.com_zhongwen_simp\mod20.html
+2024-06-02 20:04:59,015 - INFO - 程序运行时长：4.83 秒
+2024-06-02 20:05:08,115 - INFO - url'https://www.bbc.com/zhongwen/simp' 已存在，未添加。
+2024-06-02 20:05:08,117 - INFO - 您输入的网址是: https://www.bbc.com/zhongwen/simp
+2024-06-02 20:05:08,117 - INFO - 要过滤的违禁词: 中国
+2024-06-02 20:05:11,113 - INFO - hrefs_to_remove ['中国']
+2024-06-02 20:05:11,120 - INFO - prohibited_words ['中国']
+2024-06-02 20:05:11,188 - INFO - 处理后的网页写入到: ./modified/www.bbc.com_zhongwen_simp\mod21.html
+2024-06-02 20:05:11,314 - INFO - 程序运行时长：3.20 秒
+2024-06-02 20:05:15,437 - INFO - 程序正在关闭...
+2024-06-02 20:08:29,413 - INFO - url'https://www.bbc.com/zhongwen/simp' 已存在，未添加。
+2024-06-02 20:08:29,413 - INFO - 您输入的网址是: https://www.bbc.com/zhongwen/simp
+2024-06-02 20:08:29,414 - INFO - 要过滤的违禁词: 中国
+2024-06-02 20:08:33,880 - INFO - hrefs_to_remove ['中国']
+2024-06-02 20:08:33,880 - INFO - prohibited_words ['中国']
+2024-06-02 20:08:33,951 - INFO - 处理后的网页写入到: ./modified/www.bbc.com_zhongwen_simp\mod22.html
+2024-06-02 20:08:34,089 - INFO - 程序运行时长：4.68 秒
+2024-06-02 20:08:34,199 - INFO - 程序正在关闭...
+2024-06-02 20:08:41,114 - INFO - url'https://www.bbc.com/zhongwen/simp' 已存在，未添加。
+2024-06-02 20:08:41,114 - INFO - 您输入的网址是: https://www.bbc.com/zhongwen/simp
+2024-06-02 20:08:41,115 - INFO - 要过滤的违禁词: 美国
+2024-06-02 20:08:44,754 - INFO - hrefs_to_remove ['美国']
+2024-06-02 20:08:44,755 - INFO - prohibited_words ['美国']
+2024-06-02 20:08:44,828 - INFO - 处理后的网页写入到: ./modified/www.bbc.com_zhongwen_simp\mod23.html
+2024-06-02 20:08:44,998 - INFO - 程序运行时长：3.88 秒
+2024-06-02 20:08:56,452 - INFO - 程序正在关闭...
+2024-06-02 20:38:59,345 - INFO - url'https://www.bbc.com/zhongwen/simp' 已存在，未添加。
+2024-06-02 20:38:59,345 - INFO - 您输入的网址是: https://www.bbc.com/zhongwen/simp
+2024-06-02 20:38:59,346 - INFO - 要过滤的违禁词: 中国
+2024-06-02 20:39:01,389 - INFO - url'https://www.bbc.com/zhongwen/simp' 已存在，未添加。
+2024-06-02 20:39:01,389 - INFO - 您输入的网址是: https://www.bbc.com/zhongwen/simp
+2024-06-02 20:39:01,389 - INFO - 要过滤的违禁词: 中国
+2024-06-02 20:39:32,634 - INFO - url'https://www.bbc.com/zhongwen/simp' 已存在，未添加。
+2024-06-02 20:39:32,634 - INFO - 您输入的网址是: https://www.bbc.com/zhongwen/simp
+2024-06-02 20:39:32,634 - INFO - 要过滤的违禁词: 中国
+2024-06-02 20:39:35,018 - INFO - url'https://www.bbc.com/zhongwen/simp' 已存在，未添加。
+2024-06-02 20:39:35,018 - INFO - 您输入的网址是: https://www.bbc.com/zhongwen/simp
+2024-06-02 20:39:35,019 - INFO - 要过滤的违禁词: 中国
+2024-06-02 20:39:37,066 - INFO - 程序正在关闭...
+2024-06-02 20:41:08,843 - INFO - url'https://www.bbc.com/zhongwen/simp' 已存在，未添加。
+2024-06-02 20:41:08,843 - INFO - 您输入的网址是: https://www.bbc.com/zhongwen/simp
+2024-06-02 20:41:08,843 - INFO - 要过滤的违禁词: 中国
+2024-06-02 20:46:11,296 - INFO - url'https://www.bbc.com/zhongwen/simp' 已存在，未添加。
+2024-06-02 20:46:11,297 - INFO - 您输入的网址是: https://www.bbc.com/zhongwen/simp
+2024-06-02 20:46:11,297 - INFO - 要过滤的违禁词: 中国1
+2024-06-02 20:47:42,193 - INFO - 程序正在关闭...
+2024-06-02 20:48:11,093 - INFO - url'https://www.bbc.com/zhongwen/simp' 已存在，未添加。
+2024-06-02 20:48:11,094 - INFO - 您输入的网址是: https://www.bbc.com/zhongwen/simp
+2024-06-02 20:48:11,094 - INFO - 要过滤的违禁词: oo
+2024-06-02 20:49:07,999 - INFO - url'https://www.bbc.com/zhongwen/simp' 已存在，未添加。
+2024-06-02 20:49:08,000 - INFO - 您输入的网址是: https://www.bbc.com/zhongwen/simp
+2024-06-02 20:49:08,000 - INFO - 要过滤的违禁词: 1
+2024-06-02 20:49:52,395 - INFO - url'https://www.bbc.com/zhongwen/simp' 已存在，未添加。
+2024-06-02 20:49:52,395 - INFO - 您输入的网址是: https://www.bbc.com/zhongwen/simp
+2024-06-02 20:49:52,395 - INFO - 要过滤的违禁词: 1
+2024-06-02 20:52:25,238 - INFO - 无效的网址格式！请重新输入
+2024-06-02 20:52:25,238 - INFO - 网址/违禁词为空,请检查后重新输入
+2024-06-02 20:52:32,396 - INFO - 无效的网址格式！请重新输入
+2024-06-02 20:52:32,397 - INFO - 网址/违禁词为空,请检查后重新输入
+2024-06-02 20:52:44,946 - INFO - 无效的网址格式！请重新输入
+2024-06-02 20:52:44,946 - INFO - 网址/违禁词为空,请检查后重新输入
+2024-06-02 20:52:46,461 - INFO - 无效的网址格式！请重新输入
+2024-06-02 20:52:46,461 - INFO - 网址/违禁词为空,请检查后重新输入
+2024-06-02 20:52:49,252 - INFO - 无效的网址格式！请重新输入
+2024-06-02 20:52:49,252 - INFO - 网址/违禁词为空,请检查后重新输入
+2024-06-02 20:52:49,765 - INFO - 无效的网址格式！请重新输入
+2024-06-02 20:52:49,765 - INFO - 网址/违禁词为空,请检查后重新输入
+2024-06-02 20:52:49,968 - INFO - 无效的网址格式！请重新输入
+2024-06-02 20:52:49,968 - INFO - 网址/违禁词为空,请检查后重新输入
+2024-06-02 20:52:50,142 - INFO - 无效的网址格式！请重新输入
+2024-06-02 20:52:50,142 - INFO - 网址/违禁词为空,请检查后重新输入
+2024-06-02 20:52:56,651 - INFO - 无效的网址格式！请重新输入
+2024-06-02 20:52:56,651 - INFO - 网址/违禁词为空,请检查后重新输入
+2024-06-02 20:52:56,837 - INFO - 无效的网址格式！请重新输入
+2024-06-02 20:52:56,837 - INFO - 网址/违禁词为空,请检查后重新输入
+2024-06-02 20:52:57,014 - INFO - 无效的网址格式！请重新输入
+2024-06-02 20:52:57,014 - INFO - 网址/违禁词为空,请检查后重新输入
+2024-06-02 20:53:15,933 - INFO - url 'https://www.baidu.com/' 已添加。
+2024-06-02 20:53:15,934 - INFO - 您输入的网址是: https://www.baidu.com/
+2024-06-02 20:53:15,934 - INFO - 要过滤的违禁词: 1
+2024-06-02 20:53:16,536 - INFO - hrefs_to_remove ['1']
+2024-06-02 20:53:16,537 - INFO - prohibited_words ['1']
+2024-06-02 20:53:16,539 - INFO - 处理后的网页写入到: ./modified/www.baidu.com\mod1.html
+2024-06-02 20:53:16,640 - INFO - 程序运行时长：0.71 秒
+2024-06-02 20:54:57,214 - INFO - 程序正在关闭...
+2024-06-02 21:08:18,125 - INFO - url'https://www.bbc.com/zhongwen/simp' 已存在，未添加。
+2024-06-02 21:08:18,125 - INFO - 您输入的网址是: https://www.bbc.com/zhongwen/simp
+2024-06-02 21:08:18,126 - INFO - 要过滤的违禁词: 1
+2024-06-02 21:08:28,199 - INFO - 请求超时
+2024-06-02 21:08:45,000 - INFO - 程序正在关闭...
+2024-06-02 21:18:45,650 - INFO - url'https://www.bbc.com/zhongwen/simp' 已存在，未添加。
+2024-06-02 21:18:45,651 - INFO - 您输入的网址是: https://www.bbc.com/zhongwen/simp
+2024-06-02 21:18:45,651 - INFO - 要过滤的违禁词: 1
+2024-06-02 21:18:48,035 - INFO - 成功获取网页内容，退出循环
+2024-06-02 21:18:48,175 - INFO - hrefs_to_remove ['1']
+2024-06-02 21:18:48,175 - INFO - prohibited_words ['1']
+2024-06-02 21:18:48,241 - INFO - 处理后的网页写入到: ./modified/www.bbc.com_zhongwen_simp\mod24.html
+2024-06-02 21:18:48,417 - INFO - 程序运行时长：2.77 秒
+2024-06-02 21:20:36,081 - INFO - 程序正在关闭...
+2024-06-02 21:20:44,756 - INFO - url'https://www.bbc.com/zhongwen/simp' 已存在，未添加。
+2024-06-02 21:20:44,757 - INFO - 您输入的网址是: https://www.bbc.com/zhongwen/simp
+2024-06-02 21:20:44,757 - INFO - 要过滤的违禁词: 23
+2024-06-02 21:20:47,438 - INFO - 成功获取网页内容，退出循环
+2024-06-02 21:20:47,575 - INFO - hrefs_to_remove ['23']
+2024-06-02 21:20:47,575 - INFO - prohibited_words ['23']
+2024-06-02 21:20:47,638 - INFO - 处理后的网页写入到: ./modified/www.bbc.com_zhongwen_simp\mod25.html
+2024-06-02 21:20:47,827 - INFO - 程序运行时长：3.07 秒
+2024-06-02 21:21:58,280 - INFO - url 'https://www.github.com' 已添加。
+2024-06-02 21:21:58,280 - INFO - 您输入的网址是: https://www.github.com
+2024-06-02 21:21:58,280 - INFO - 要过滤的违禁词: 23
+2024-06-02 21:22:02,140 - INFO - 成功获取网页内容，退出循环
+2024-06-02 21:22:02,218 - INFO - hrefs_to_remove ['23']
+2024-06-02 21:22:02,218 - INFO - prohibited_words ['23']
+2024-06-02 21:22:02,285 - INFO - 处理后的网页写入到: ./modified/www.github.com\mod1.html
+2024-06-02 21:22:02,337 - INFO - 程序运行时长：4.06 秒
+2024-06-02 21:22:16,059 - INFO - url'https://www.github.com' 已存在，未添加。
+2024-06-02 21:22:16,060 - INFO - 您输入的网址是: https://www.github.com
+2024-06-02 21:22:16,060 - INFO - 要过滤的违禁词: 23
+2024-06-02 21:22:17,976 - INFO - 成功获取网页内容，退出循环
+2024-06-02 21:22:18,069 - INFO - hrefs_to_remove ['23']
+2024-06-02 21:22:18,069 - INFO - prohibited_words ['23']
+2024-06-02 21:22:18,187 - INFO - 处理后的网页写入到: ./modified/www.github.com\mod2.html
+2024-06-02 21:22:18,292 - INFO - 程序运行时长：2.23 秒
+2024-06-02 21:22:42,262 - INFO - url'https://www.bbc.com/zhongwen/simp' 已存在，未添加。
+2024-06-02 21:22:42,263 - INFO - 您输入的网址是: https://www.bbc.com/zhongwen/simp
+2024-06-02 21:22:42,263 - INFO - 要过滤的违禁词: 23344
+2024-06-02 21:22:52,314 - INFO - 请求超时
+2024-06-02 21:23:06,475 - INFO - 请求超时
+2024-06-02 21:23:18,713 - INFO - 请求超时
+2024-06-02 21:23:30,782 - INFO - 请求超时
+2024-06-02 21:23:56,222 - INFO - 请求超时
+2024-06-02 21:25:55,099 - INFO - 程序正在关闭...
+2024-06-02 21:32:19,404 - INFO - url'https://www.bbc.com/zhongwen/simp' 已存在，未添加。
+2024-06-02 21:32:19,405 - INFO - 您输入的网址是: https://www.bbc.com/zhongwen/simp
+2024-06-02 21:32:19,405 - INFO - 要过滤的违禁词: 1
+2024-06-02 21:32:29,478 - INFO - 请求超时
+2024-06-02 21:32:53,180 - INFO - url'https://www.bbc.com/zhongwen/simp' 已存在，未添加。
+2024-06-02 21:32:53,180 - INFO - 您输入的网址是: https://www.bbc.com/zhongwen/simp
+2024-06-02 21:32:53,181 - INFO - 要过滤的违禁词: 1
+2024-06-02 21:32:55,214 - INFO - HTTPSConnectionPool(host='www.bbc.com', port=443): Max retries exceeded with url: /zhongwen/simp (Caused by ProxyError('Cannot connect to proxy.', NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x0000025FAC70E4F0>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。')))
+2024-06-02 21:33:06,882 - INFO - url'https://www.bbc.com/zhongwen/simp' 已存在，未添加。
+2024-06-02 21:33:06,882 - INFO - 您输入的网址是: https://www.bbc.com/zhongwen/simp
+2024-06-02 21:33:06,882 - INFO - 要过滤的违禁词: 1
+2024-06-02 21:33:10,376 - INFO - 成功获取网页内容，退出循环
+2024-06-02 21:33:10,520 - INFO - hrefs_to_remove ['1']
+2024-06-02 21:33:10,520 - INFO - prohibited_words ['1']
+2024-06-02 21:33:10,587 - INFO - 处理后的网页写入到: ./modified/www.bbc.com_zhongwen_simp\mod26.html
+2024-06-02 21:33:10,762 - INFO - 程序运行时长：3.88 秒
+2024-06-02 21:33:17,139 - INFO - 程序正在关闭...
+2024-06-02 21:34:03,491 - INFO - url'https://www.bbc.com/zhongwen/simp' 已存在，未添加。
+2024-06-02 21:34:03,491 - INFO - 您输入的网址是: https://www.bbc.com/zhongwen/simp
+2024-06-02 21:34:03,491 - INFO - 要过滤的违禁词: 11
+2024-06-02 21:34:05,814 - INFO - 成功获取网页内容，退出循环
+2024-06-02 21:34:05,949 - INFO - hrefs_to_remove ['11']
+2024-06-02 21:34:05,950 - INFO - prohibited_words ['11']
+2024-06-02 21:34:06,011 - INFO - 处理后的网页写入到: ./modified/www.bbc.com_zhongwen_simp\mod27.html
+2024-06-02 21:34:06,187 - INFO - 程序运行时长：2.69 秒
+2024-06-02 21:34:12,451 - INFO - url'https://www.bbc.com/zhongwen/simp' 已存在，未添加。
+2024-06-02 21:34:12,452 - INFO - 您输入的网址是: https://www.bbc.com/zhongwen/simp
+2024-06-02 21:34:12,452 - INFO - 要过滤的违禁词: 11
+2024-06-02 21:34:15,831 - INFO - 成功获取网页内容，退出循环
+2024-06-02 21:34:16,020 - INFO - hrefs_to_remove ['11']
+2024-06-02 21:34:16,020 - INFO - prohibited_words ['11']
+2024-06-02 21:34:16,096 - INFO - 处理后的网页写入到: ./modified/www.bbc.com_zhongwen_simp\mod28.html
+2024-06-02 21:34:16,251 - INFO - 程序运行时长：3.80 秒
+2024-06-02 21:34:28,097 - INFO - url'https://www.bbc.com/zhongwen/simp' 已存在，未添加。
+2024-06-02 21:34:28,097 - INFO - 您输入的网址是: https://www.bbc.com/zhongwen/simp
+2024-06-02 21:34:28,097 - INFO - 要过滤的违禁词: 11
+2024-06-02 21:34:30,134 - INFO - HTTPSConnectionPool(host='www.bbc.com', port=443): Max retries exceeded with url: /zhongwen/simp (Caused by ProxyError('Cannot connect to proxy.', NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x00000290F6739E20>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。')))
+2024-06-02 21:38:48,525 - INFO - 取消按钮被点击
+2024-06-02 21:49:51,158 - INFO - url'https://www.bbc.com/zhongwen/simp' 已存在，未添加。
+2024-06-02 21:49:51,159 - INFO - 您输入的网址是: https://www.bbc.com/zhongwen/simp
+2024-06-02 21:49:51,159 - INFO - 要过滤的违禁词: 1
+2024-06-02 21:50:01,231 - INFO - 请求超时
+2024-06-02 21:50:34,227 - INFO - 用户取消输入代理，程序将退出。
+2024-06-02 21:51:24,820 - INFO - url'https://www.bbc.com/zhongwen/simp' 已存在，未添加。
+2024-06-02 21:51:24,820 - INFO - 您输入的网址是: https://www.bbc.com/zhongwen/simp
+2024-06-02 21:51:24,820 - INFO - 要过滤的违禁词: 12
+2024-06-02 21:51:34,888 - INFO - 请求超时
+2024-06-02 21:51:51,336 - INFO - 请求超时
+2024-06-02 21:52:04,410 - INFO - 请求失败，请检查代理设置或网络连接。
+2024-06-02 21:52:04,959 - INFO - 取消按钮被点击
+2024-06-02 21:52:15,436 - INFO - url'https://www.bbc.com/zhongwen/simp' 已存在，未添加。
+2024-06-02 21:52:15,437 - INFO - 您输入的网址是: https://www.bbc.com/zhongwen/simp
+2024-06-02 21:52:15,437 - INFO - 要过滤的违禁词: 1
+2024-06-02 21:52:25,522 - INFO - 请求超时
+2024-06-02 21:53:41,367 - INFO - url'https://www.bbc.com/zhongwen/simp' 已存在，未添加。
+2024-06-02 21:53:41,367 - INFO - 您输入的网址是: https://www.bbc.com/zhongwen/simp
+2024-06-02 21:53:41,367 - INFO - 要过滤的违禁词: 234
+2024-06-02 21:53:51,437 - INFO - 请求超时
+2024-06-02 21:54:05,914 - INFO - 请求超时
+2024-06-02 21:55:13,256 - INFO - url'https://www.bbc.com/zhongwen/simp' 已存在，未添加。
+2024-06-02 21:55:13,256 - INFO - 您输入的网址是: https://www.bbc.com/zhongwen/simp
+2024-06-02 21:55:13,256 - INFO - 要过滤的违禁词: 2
+2024-06-02 21:55:23,349 - INFO - 请求超时
+2024-06-02 21:55:24,402 - INFO - 请求失败，请检查代理设置或网络连接。
+2024-06-02 21:55:35,672 - INFO - 程序正在关闭...
+2024-06-02 22:01:34,309 - INFO - url'https://www.bbc.com/zhongwen/simp' 已存在，未添加。
+2024-06-02 22:01:34,310 - INFO - 您输入的网址是: https://www.bbc.com/zhongwen/simp
+2024-06-02 22:01:34,310 - INFO - 要过滤的违禁词: 中国
+2024-06-02 22:01:37,642 - INFO - hrefs_to_remove ['中国']
+2024-06-02 22:01:37,642 - INFO - prohibited_words ['中国']
+2024-06-02 22:01:37,714 - INFO - 处理后的网页写入到: ./modified/www.bbc.com_zhongwen_simp\mod29.html
+2024-06-02 22:01:37,827 - INFO - 程序运行时长：3.52 秒
+2024-06-02 22:01:42,399 - INFO - url'https://www.bbc.com/zhongwen/simp' 已存在，未添加。
+2024-06-02 22:01:42,399 - INFO - 您输入的网址是: https://www.bbc.com/zhongwen/simp
+2024-06-02 22:01:42,399 - INFO - 要过滤的违禁词: 中国
+2024-06-02 22:01:44,411 - INFO - HTTPSConnectionPool(host='www.bbc.com', port=443): Max retries exceeded with url: /zhongwen/simp (Caused by ProxyError('Cannot connect to proxy.', NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B9B15431C0>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。')))
+2024-06-02 22:01:46,079 - INFO - 请求失败，请检查代理设置或网络连接。
+2024-06-02 22:01:49,045 - INFO - url'https://www.bbc.com/zhongwen/simp' 已存在，未添加。
+2024-06-02 22:01:49,045 - INFO - 您输入的网址是: https://www.bbc.com/zhongwen/simp
+2024-06-02 22:01:49,045 - INFO - 要过滤的违禁词: 中国
+2024-06-02 22:01:51,682 - INFO - hrefs_to_remove ['中国']
+2024-06-02 22:01:51,682 - INFO - prohibited_words ['中国']
+2024-06-02 22:01:51,745 - INFO - 处理后的网页写入到: ./modified/www.bbc.com_zhongwen_simp\mod30.html
+2024-06-02 22:01:51,851 - INFO - 程序运行时长：2.81 秒
+2024-06-02 22:01:57,853 - INFO - 程序正在关闭...
+2024-06-02 22:25:59,586 - INFO - url'https://www.bbc.com/zhongwen/simp' 已存在，未添加。
+2024-06-02 22:25:59,587 - INFO - 您输入的网址是: https://www.bbc.com/zhongwen/simp
+2024-06-02 22:25:59,587 - INFO - 要过滤的违禁词: 12
+2024-06-02 22:26:02,533 - INFO - hrefs_to_remove ['12']
+2024-06-02 22:26:02,533 - INFO - prohibited_words ['12']
+2024-06-02 22:26:02,585 - INFO - 处理后的网页写入到: ./modified/www.bbc.com_zhongwen_simp\mod31.html
+2024-06-02 22:26:02,699 - INFO - 程序运行时长：3.11 秒
+2024-06-02 22:26:07,837 - INFO - 程序正在关闭...
+2024-06-03 10:49:11,267 - INFO - url'https://www.bbc.com/zhongwen/simp' 已存在，未添加。
+2024-06-03 10:49:11,268 - INFO - 您输入的网址是: https://www.bbc.com/zhongwen/simp
+2024-06-03 10:49:11,268 - INFO - 要过滤的违禁词: 中国
+2024-06-03 10:49:12,666 - INFO - hrefs_to_remove ['中国']
+2024-06-03 10:49:12,666 - INFO - prohibited_words ['中国']
+2024-06-03 10:49:12,821 - INFO - 处理后的网页写入到: ./modified/www.bbc.com_zhongwen_simp\mod32.html
+2024-06-03 10:49:13,185 - INFO - 程序运行时长：1.92 秒
+2024-11-30 12:11:34,937 - INFO - url 'https://www.youtube.com/' �����ӡ�
+2024-11-30 12:11:34,939 - INFO - ���������ַ��: https://www.youtube.com/
+2024-11-30 12:11:34,939 - INFO - Ҫ���˵�Υ����: ϰ��ƽ
+2024-11-30 12:11:38,439 - INFO - hrefs_to_remove ['ϰ��ƽ']
+2024-11-30 12:11:38,440 - INFO - prohibited_words ['ϰ��ƽ']
+2024-11-30 12:11:38,453 - INFO - ���������ҳд�뵽: ./modified/www.youtube.com\mod1.html
+2024-11-30 12:11:38,820 - INFO - ��������ʱ����3.88 ��
+2024-11-30 12:12:36,407 - INFO - url 'https://www.youtube.com/results?search_query=%E4%B9%A0%E8%BF%91%E5%B9%B3' �����ӡ�
+2024-11-30 12:12:36,408 - INFO - ���������ַ��: https://www.youtube.com/results?search_query=%E4%B9%A0%E8%BF%91%E5%B9%B3
+2024-11-30 12:12:36,408 - INFO - Ҫ���˵�Υ����: ϰ��ƽ
+2024-11-30 12:13:12,369 - INFO - ȡ����ť�����
+2024-11-30 12:22:28,838 - INFO - url 'https://www.bbc.com/' �����ӡ�
+2024-11-30 12:22:28,838 - INFO - ���������ַ��: https://www.bbc.com/
+2024-11-30 12:22:28,838 - INFO - Ҫ���˵�Υ����: ϰ��ƽ
+2024-11-30 12:22:30,882 - INFO - HTTPSConnectionPool(host='www.bbc.com', port=443): Max retries exceeded with url: / (Caused by ProxyError('Unable to connect to proxy', NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B3948BDF0>: Failed to establish a new connection: [WinError 10061] ����Ŀ�����������ܾ����޷����ӡ�')))
+2024-11-30 12:22:33,703 - INFO - ����ʧ�ܣ�����������û��������ӡ�
+2024-11-30 12:22:58,761 - INFO - url'https://www.bbc.com/' �Ѵ��ڣ�δ���ӡ�
+2024-11-30 12:22:58,762 - INFO - ���������ַ��: https://www.bbc.com/
+2024-11-30 12:22:58,762 - INFO - Ҫ���˵�Υ����: ϰ��ƽ
+2024-11-30 12:23:00,817 - INFO - HTTPSConnectionPool(host='www.bbc.com', port=443): Max retries exceeded with url: / (Caused by ProxyError('Unable to connect to proxy', NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B3957FAF0>: Failed to establish a new connection: [WinError 10061] ����Ŀ�����������ܾ����޷����ӡ�')))
+2024-11-30 12:23:01,820 - INFO - ����ʧ�ܣ�����������û��������ӡ�
+2024-11-30 12:23:16,086 - INFO - url'https://www.bbc.com/' �Ѵ��ڣ�δ���ӡ�
+2024-11-30 12:23:16,086 - INFO - ���������ַ��: https://www.bbc.com/
+2024-11-30 12:23:16,086 - INFO - Ҫ���˵�Υ����: ϰ��ƽ
+2024-11-30 12:23:18,133 - INFO - HTTPSConnectionPool(host='www.bbc.com', port=443): Max retries exceeded with url: / (Caused by ProxyError('Unable to connect to proxy', NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B39598640>: Failed to establish a new connection: [WinError 10061] ����Ŀ�����������ܾ����޷����ӡ�')))
+2024-11-30 12:23:19,333 - INFO - ����ʧ�ܣ�����������û��������ӡ�
+2024-11-30 12:24:15,598 - INFO - url'https://www.bbc.com/' �Ѵ��ڣ�δ���ӡ�
+2024-11-30 12:24:15,598 - INFO - ���������ַ��: https://www.bbc.com/
+2024-11-30 12:24:15,598 - INFO - Ҫ���˵�Υ����: ϰ��ƽ
+2024-11-30 12:24:17,629 - INFO - HTTPSConnectionPool(host='www.bbc.com', port=443): Max retries exceeded with url: / (Caused by ProxyError('Unable to connect to proxy', NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B3957F850>: Failed to establish a new connection: [WinError 10061] ����Ŀ�����������ܾ����޷����ӡ�')))
+2024-11-30 12:24:18,716 - INFO - ����ʧ�ܣ�����������û��������ӡ�
+2024-11-30 12:24:21,928 - INFO - url'https://www.bbc.com/' �Ѵ��ڣ�δ���ӡ�
+2024-11-30 12:24:21,928 - INFO - ���������ַ��: https://www.bbc.com/
+2024-11-30 12:24:21,928 - INFO - Ҫ���˵�Υ����: ϰ��ƽ
+2024-11-30 12:24:26,957 - INFO - ����ʱ
+2024-11-30 12:24:29,586 - INFO - ����ʧ�ܣ�����������û��������ӡ�
+2024-11-30 12:51:05,354 - INFO - �������ڹر�...
