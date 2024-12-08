@@ -45,6 +45,7 @@ def filter_html(html_content, prohibited_words):
 
 @app.route('/filter', methods=['POST'])
 
+# 处理网页信息
 def filter_url():
     data = request.get_json()
     url = data.get("url")  # 获取客户端传来的 URL
