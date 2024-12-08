@@ -51,7 +51,7 @@ def filter_html(html_content, prohibited_words):
 def filter_url():
     data = request.get_json()
     url = data.get("url")  # 获取客户端传来的 URL
-    prohibited_words = ["俄乌战争", "六四", "台湾"]  # 示例敏感词
+    prohibited_words = ["俄乌战争", "六四", "台湾"]  # 设置敏感词
 
     try:
         # 请求网页内容
