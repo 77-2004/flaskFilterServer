@@ -1,15 +1,17 @@
 # app.py
 import requests
 
-from filter_main_page import get_index_html,remove_tags_with_prohibited_words
-from filter_content_page_side_bar import remove_href,filter_detail_page
+from filter_main_page import get_index_html, remove_tags_with_prohibited_words
+from filter_content_page_side_bar import remove_href, filter_detail_page
 from bs4 import BeautifulSoup
 import logging
 
 from flask import Flask, request, jsonify
 from flask_cors import CORS
+
 app = Flask(__name__)
 CORS(app)
+
 
 def filter_html(html_content, prohibited_words):
     html_content = request.data.decode('utf-8')
@@ -21,8 +23,8 @@ def filter_html(html_content, prohibited_words):
     # prohibited_words = import_file_to_list(prohibited_words_path)  # 将敏感词文件转为列表
     # for script in soup.find_all('body'):
     #     script.decompose()
-    hrefs_to_remove=['俄乌战争','六四',"台湾"]
-    prohibited_words=hrefs_to_remove
+    hrefs_to_remove = ['俄乌战争', '六四', "台湾"]
+    prohibited_words = hrefs_to_remove
     logging.info("hrefs_to_remove %s", hrefs_to_remove)
     logging.info("prohibited_words %s", prohibited_words)
     # print("hrefs_to_remove",hrefs_to_remove)
@@ -43,9 +45,9 @@ def filter_html(html_content, prohibited_words):
     #     modified_html = modified_html.replace('台湾',"我靠")
     return jsonify({'html': modified_html})
 
-@app.route('/filter', methods=['POST'])
 
-# 处理网页信息
+@app.route('/filter', methods=['POST'])
+# 过滤网页内容
 def filter_url():
     data = request.get_json()
     url = data.get("url")  # 获取客户端传来的 URL
@@ -64,5 +66,7 @@ def filter_url():
 
     except requests.exceptions.RequestException as e:
         return jsonify({"error": str(e)}), 400
+
+
 if __name__ == '__main__':
-    app.run(debug=True,port=24464)
+    app.run(debug=True, port=24464)
